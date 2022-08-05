@@ -1,0 +1,22 @@
+header{
+    text-align: center;
+}
+.imagen-center{
+    display: block;
+    margin: auto;
+}
+.otstup{
+    text-align: center;
+}
+
+.warp{
+    text-align: center;
+}
+
+body{
+    background-color: #DCDCDC;
+}
+
+.navemenu{
+    font-family:'Merriweather', serif;
+}
